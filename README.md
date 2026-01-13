@@ -123,8 +123,7 @@ I’m especially interested in roles where I can:
 
 - **LinkedIn:** https://linkedin.com/in/sagarrbhor  
 - **GitHub:** https://github.com/Sagarr315  
-- **Email:** sagarr.fullstack@gmail.com
+- **Email:** sagarr.sotware@gmail.com
 
 ---
 
-> 💡 *“Frontend helps users. Backend builds systems. I focus on building systems that last.”*
